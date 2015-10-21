@@ -22,5 +22,6 @@
   <ItemGroup>
     <Compile Include="index.php" />
     <Compile Include="Interface.php" />
+    <Compile Include="phpinfo.php" />
   </ItemGroup>
 </Project>
